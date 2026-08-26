@@ -4,6 +4,7 @@ import httpx
 import pytest
 
 from trussium.capabilities.speech import SpeechRequest
+
 from trussium_provider_piper import PiperSpeechCapability
 
 
